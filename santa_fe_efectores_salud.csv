@@ -1,0 +1,756 @@
+"id","nombre","dependencia","lat","lon"
+755,"Centro Asistencial Casa De Gobierno","Provincial",-31.65793,-60.71062
+704,"Centro Asistencial Nueva Fe","Municipal",-29.1744,-59.65738
+1328,"Centro De Atención Ambulatoria Programada","Provincial",-31.63476,-60.71703
+838,"Centro De Especialidades Medicas Ambulatorias (CEMAR)","Municipal",-32.94675,-60.6515
+1253,"Centro De Tratamiento Ambulatorio-Adicciones Casa Del Sol","Provincial",-31.649507119232,-60.719870758138
+785,"Centro Regional De Hemoterapia","Provincial",-32.934166666667,-60.676472222222
+218,"Centro Regional De Salud Mental Dr. Agudo Ávila","Provincial",-32.940111111111,-60.663777777778
+844,"CIC 20 de Junio","Provincial",-33.02417,-60.60408
+707,"CIC Barrio América","Municipal",-29.16737,-59.64666
+846,"CIC Bo. Lujan","Provincial",-29.50795,-59.75669
+850,"CIC Calchaquí","Provincial",-29.89328,-60.29037
+689,"CIC Callejón Roca","Provincial",-31.57845,-60.68421667
+848,"CIC Capitán Bermúdez","Provincial",-32.80211,-60.72663
+568,"CIC Cayastá","Provincial",-31.20182,-60.16358
+708,"CIC Florencia","Municipal",-28.03798,-59.21541
+1273,"CIC Las Malvinas","Provincial",-31.39664,-60.32213
+692,"CIC Loyola Sur","Provincial",-31.578433788166,-60.738854082981
+1254,"CIC Malabrigo","Provincial",-29.35143,-59.97576
+373,"CIC San Javier - Fonavi","Provincial",-30.57883,-59.93681
+840,"CIC Sauce Viejo","Municipal",-31.77448,-60.83664
+617,"CIC Villa Constitución Dr. Ramón Carrillo","Municipal",-33.22942,-60.3485
+735,"CIC Villa Ocampo","Municipal",-28.48311,-59.37152
+43,"Colonia Psiquiátrica Dr. Abelardo Freyre","Provincial",-32.533426,-60.868861
+602,"CS 1 De Julio","Municipal",-32.75642,-60.72693
+1342,"CS 10 2 De Abril","Provincial",-31.27357,-61.47046
+571,"CS 17 De Octubre","Municipal",-33.254290592783,-60.306403791704
+210,"CS 17 De Octubre","Provincial",-33.00975,-60.60625
+601,"CS 2 De Abril","Municipal",-32.77772816743,-60.724090597639
+736,"CS 24 De Setiembre","Municipal",-30.79489,-60.58681
+49,"CS 25 De Mayo","Provincial",-32.815569637928,-61.384075549015
+1298,"CS 7 De Abril","Nacional",-32.938527777778,-60.662027777778
+515,"CS Aarón Castellanos","Provincial",-34.33225,-62.37519
+122,"CS Abasto","Provincial",-31.56106667,-60.74231667
+1317,"CS Adelina Este","Municipal",-31.701566667,-60.762866667
+93,"CS Adelina Oeste","Municipal",-31.69495,-60.788316667
+238,"CS Aguara Grande","Provincial",-30.1167,-60.8833
+178,"CS Albarellos","Municipal",-33.23804,-60.63846
+116,"CS Alberdi","Provincial",-31.611621281289,-60.683605284182
+410,"CS Alberdi","Municipal",-33.040662978363,-61.177710177462
+315,"CS Aldao","Provincial",-32.70581,-60.81527
+895,"CS Alfonsina Storni","Provincial",-33.010667,-60.642222
+421,"CS Alicia Moreau De Justo","Provincial",-31.654116667,-60.832483333
+685,"CS Alicia Moreau De Justo","Municipal",-32.885111,-60.726417
+54,"CS Alto Verde","Provincial",-31.65937,-60.69986
+120,"CS Altos De Nogueras","Provincial",-31.56636667,-60.70478333
+115,"CS Altos Del Valle","Provincial",-31.573196554249,-60.684542581215
+544,"CS Amenábar","Municipal",-34.13501,-62.42302
+376,"CS Andino","Municipal",-32.67171,-60.88001
+539,"CS Ángel Bulgheroni","Provincial",-34.25715,-62.70992
+118,"CS Ángel Gallardo","Provincial",-31.554316667,-60.679183333
+444,"CS Angélica","Municipal",-31.550129619658,-61.543330621364
+165,"CS Arminda","Municipal",-33.26364,-60.96625
+263,"CS Arocena","Provincial",-32.07786,-60.97612
+55,"CS Arroyo Aguiar","Municipal",-31.430016667,-60.667683333
+16,"CS Arroyo Ceibal","Provincial",-28.72353,-59.47872
+413,"CS Asistencia Publica Municipal","Municipal",-33.738705828346,-61.967743274015
+646,"CS Asistencial A La Comunidad","Provincial",-32.967861111111,-60.626083333333
+445,"CS Ataliva","Municipal",-30.99554,-61.43575
+365,"CS Aurelia","Provincial",-31.42066,-61.42443
+556,"CS Avellaneda","Provincial",-29.116043103023,-59.655858746057
+382,"CS Baradero Sarsotti","Provincial",-31.66942,-60.73506
+594,"CS Barrio 3 De Febrero","Municipal",-32.73151,-60.74843
+484,"CS Barrio Acapulco y Vera Cruz","Provincial",-31.42071,-62.06029
+112,"CS Barrio Acería","Provincial",-31.598284649082,-60.668916584328
+397,"CS Barrio Almafuerte","Municipal",-29.138177638605,-59.641225662084
+411,"CS Barrio Barracas","Municipal",-33.054234099167,-61.162785445019
+62,"CS Barrio Barranquitas Oeste","Provincial",-31.620402102265,-60.719818917699
+33,"CS Barrio Belgrano","Provincial",-29.1171,-59.68149
+111,"CS Barrio Cabal","Provincial",-31.605190834199,-60.691291889611
+282,"CS Barrio Caima","Municipal",-31.83314,-60.87194
+389,"CS Barrio Candioti","Provincial",-31.638063143896,-60.691865117825
+593,"CS Barrio Capitán Bermúdez","Municipal",-32.734623706172,-60.745134857992
+386,"CS Barrio Chalet","Provincial",-31.661765283739,-60.728937163794
+26,"CS Barrio Chapero","Provincial",-29.15834879307,-59.645661215704
+665,"CS Barrio Copello","Municipal",-32.823034269089,-60.72678393591
+18,"CS Barrio El Ombusal Ema Beatriz Cabral","Provincial",-29.15241,-59.641
+108,"CS Barrio El Pozo","Municipal",-31.63555,-60.65898333
+669,"CS Barrio Fátima","Municipal",-32.70688,-60.74497
+903,"CS Barrio Fátima","Provincial",-30.78751,-60.60707
+473,"CS Barrio Francucci","Municipal",-31.422667026284,-62.06016010099
+886,"CS Barrio Itatí","Municipal",-28.36244,-59.25985
+29,"CS Barrio Itatí","Provincial",-29.15257,-59.67724
+228,"CS Barrio Juan XXIII","Municipal",-30.31611,-61.24391
+4,"CS Barrio La Cortada","Provincial",-29.14531,-59.63624
+30,"CS Barrio La Loma","Provincial",-29.18032,-59.66748
+667,"CS Barrio La Posta","Municipal",-32.81786,-60.71281
+603,"CS Barrio Las Quintas","Municipal",-32.72784,-60.76268
+595,"CS Barrio Leandro N Alem","Municipal",-32.737366000159,-60.740852552632
+605,"CS Barrio Los Pinos","Municipal",-32.85028,-61.15748
+107,"CS Barrio Los Troncos","Provincial",-31.581992956547,-60.744977856174
+1302,"CS Barrio Malabrigo","Provincial",-31.09629,-60.08483
+664,"CS Barrio Mariano Moreno","Municipal",-32.75402,-60.74128
+67,"CS Barrio Mendoza Oeste","Provincial",-31.642796755966,-60.732153420907
+52,"CS Barrio Mercantil","Provincial",-32.80847937755,-61.398076237776
+683,"CS Barrio Mitre","Municipal",-33.24234,-60.40559
+583,"CS Barrio Mortelari","Municipal",-33.03698,-60.62189
+677,"CS Barrio Nadal","Municipal",-33.4453,-61.49185
+1312,"CS Barrio Norte","Provincial",-31.43417,-61.25526
+19,"CS Barrio Norte","Provincial",-29.136571938992,-59.648814038382
+592,"CS Barrio Norte San Francisco De Asís","Municipal",-32.723652155416,-60.739081900654
+375,"CS Barrio Obrero","Provincial",-29.50697,-59.74235
+48,"CS Barrio Parque","Provincial",-32.818777675913,-61.410136091098
+407,"CS Barrio Parque","Municipal",-31.528533333,-60.727016667
+235,"CS Barrio Pellegrini","Municipal",-30.299748105203,-61.244686386654
+679,"CS Barrio Peyrano","Municipal",-31.281383333,-60.650316667
+44,"CS Barrio Raviolo","Provincial",-33.23041642784,-60.350883602144
+297,"CS Barrio Reyes","Provincial",-30.788588786524,-60.592713856981
+420,"CS Barrio Rivadavia","Municipal",-33.748361,-61.985472
+255,"CS Barrio San Antonio","Provincial",-30.57102,-59.93132
+245,"CS Barrio San José","Municipal",-30.31381,-61.22363
+377,"CS Barrio San Roque","Provincial",-31.456519201551,-62.048688193571
+898,"CS Barrio Sur","Provincial",-28.49525,-59.35177
+91,"CS Barrio Talleres","Provincial",-31.29425,-60.654883333
+179,"CS Barrio Talleres","Provincial",-33.017667,-60.612639
+647,"CS Barrio Toba","Municipal",-32.98001,-60.70127
+572,"CS Barrio Troilo","Municipal",-33.24589,-60.3267
+148,"CS Barrio Unidos","Provincial",-31.452341249113,-60.904691502125
+96,"CS Barrio Villa Hipódromo","Provincial",-31.616861010288,-60.717817478091
+463,"CS Barrio Villani","Municipal",-31.440485297532,-62.069079055912
+398,"CS Barrio Virgen De Guadalupe","Provincial",-29.16134,-59.67913
+82,"CS Barrio Yapeyu","Provincial",-31.567342141014,-60.73902700813
+22,"CS Barros Pazos","Provincial",-29.18951,-59.73052
+597,"CS Bartolomé Mitre","Municipal",-32.74855,-60.75437
+465,"CS Bauer Y Sigel","Provincial",-31.2715,-61.94344
+670,"CS Beaudrix","Municipal",-32.8936,-60.90715
+691,"CS Belgrano","Municipal",-32.68111,-61.53224
+464,"CS Bella Italia","Municipal",-31.28294,-61.40986
+11,"CS Berna","Provincial",-29.27327,-59.84589
+155,"CS Bety Griselda Flores","Municipal",-28.02275,-61.18754
+260,"CS Bo. El Triangulo Dr. Mario Baroni","Provincial",-30.57463,-59.92452
+600,"CS Bouchard Luis Leloir","Municipal",-32.775859048798,-60.731123918611
+369,"CS Brisas Del Paraná","Municipal",-33.23377,-60.31472
+1257,"CS Cabal","Provincial",-31.098833333,-60.7471
+106,"CS Cabaña Leiva","Provincial",-31.564764967795,-60.725800519325
+248,"CS Cacique Aracaiquin","Provincial",-30.65572,-60.2301
+542,"CS Cafferata","Provincial",-33.43912,-62.08516
+56,"CS Campo Andino","Provincial",-31.239366667,-60.530116667
+511,"CS Campo Del Medio","Provincial",-31.15497,-60.13863
+14,"CS Campo Hardy","Municipal",-28.14556,-59.26142
+80,"CS Candioti","Provincial",-31.401916667,-60.748933333
+546,"CS Cañada De Ucle","Municipal",-33.40842,-61.61126
+351,"CS Cañada Ombú","Provincial",-28.30881,-59.98123
+490,"CS Cañada Rica","Municipal",-33.51716,-60.61232
+99,"CS Capilla San José","Provincial",-31.599863420371,-60.709522318898
+239,"CS Capivara","Provincial",-30.46079595707,-61.273991249316
+547,"CS Carlos Casado","Provincial",-33.45919,-61.48162
+516,"CS Carmen","Municipal",-33.73281,-61.75829
+517,"CS Carreras","Municipal",-33.59724,-61.30992
+36,"CS Carrizales","Provincial",-32.50848,-61.02783
+281,"CS Casalegno","Municipal",-32.26262,-61.12535
+611,"CS Casiano Casas","Municipal",-32.905972,-60.697278
+672,"CS Catalina Salomón","Municipal",-32.7136,-60.73809
+379,"CS Cavour","Provincial",-31.36534,-61.01633
+285,"CS Cayastacito","Municipal",-31.11249,-60.57926
+135,"CS Ceferino Namuncurá","Provincial",-31.459858338025,-60.935772812827
+619,"CS Ceferino Namuncurá","Municipal",-32.918083333333,-60.748833333333
+32,"CS Ceferino Vicentin","Provincial",-29.108685771812,-59.662521472457
+404,"CS Centenario","Municipal",-31.771583333,-60.837033333
+265,"CS Centeno","Municipal",-32.296,-61.4085
+491,"CS Cepeda","Municipal",-33.39679,-60.62438
+518,"CS Chapuy","Municipal",-33.79746,-61.74548
+545,"CS Christophersen","Municipal",-34.18488,-62.02548
+109,"CS Ciudad Nueva","Municipal",-33.737883852475,-61.946408223138
+37,"CS Clason","Municipal",-32.46069,-61.29127
+686,"CS Club Belgrano","Municipal",-34.25861,-62.71302
+57,"CS Colastiné","Provincial",-31.623566667,-60.6031
+674,"CS Colastiné Sur","Provincial",-31.6636,-60.6058
+356,"CS Colmena","Provincial",-28.75969,-60.09346
+256,"CS Colonia  Yatai","Provincial",-30.20805,-59.94625
+467,"CS Colonia Aldao","Provincial",-30.98016,-61.74383
+393,"CS Colonia Bicha","Provincial",-30.85426,-61.84951
+370,"CS Colonia Bossi","Provincial",-30.66738,-61.78846
+296,"CS Colonia Dolores","Provincial",-30.3811,-60.32978
+252,"CS Colonia Duran","Provincial",-29.56101,-59.92733
+890,"CS Colonia Esther","Provincial",-31.04097,-60.64395
+374,"CS Colonia Francesa","Provincial",-30.65103,-59.96852
+258,"CS Colonia La Criolla","Provincial",-30.22545,-60.36127
+469,"CS Colonia Margarita","Provincial",-31.6866,-61.64743
+512,"CS Colonia Norte","Provincial",-31.05656,-60.09043
+678,"CS Colonia Nueva","Municipal",-31.36157,-61.14486
+229,"CS Colonia Rosa","Municipal",-30.30036,-61.9816
+262,"CS Colonia San Joaquín","Provincial",-30.75477,-59.99754
+298,"CS Colonia Silva","Provincial",-30.44769,-60.42961
+253,"CS Colonia Teresa","Provincial",-30.25294,-59.96969
+587,"CS Comunal De Piñero","Municipal",-33.10835,-60.79531
+843,"CS Comunitario Oeste David Estafieri","Provincial",-32.958277777778,-60.690388888889
+240,"CS Constanza","Municipal",-30.66233,-61.32259
+76,"CS Constituyentes (Ex Villa Laura)","Provincial",-31.3716,-60.66265
+396,"CS Consultorio Periférico Móvil","Municipal",-31.24825,-61.51885
+185,"CS Coronel Domínguez","Provincial",-33.18448,-60.72137
+39,"CS Correa","Municipal",-32.85015515004,-61.255500702818
+676,"CS Costa Paraná","Municipal",-33.17257,-60.43975
+70,"CS Cristo Obrero Villa Del Parque","Provincial",-31.631776473726,-60.722590586927
+151,"CS Cululú","Provincial",-31.20544,-60.93025
+832,"CS Débora Ferrandini","Municipal",-32.929916666667,-60.713027777778
+113,"CS Demetrio Gómez","Provincial",-31.66745,-60.69959
+278,"CS Desvió Arijón","Municipal",-31.83226,-60.8734
+520,"CS Diego De Alvear","Municipal",-34.37049,-62.12895
+609,"CS Don Segundo Pillado","Municipal",-32.831969927256,-60.716822796694
+95,"CS Doña Margarita Barrio Areneras","Municipal",-31.7438,-60.818416667
+731,"CS Dr. Abel E. Faust","Municipal",-32.91367,-60.79794
+574,"CS Dr. Bernardo Houssay","Municipal",-32.91888,-60.8116
+480,"CS Dr. Carlos Franzini","Provincial",-30.84474,-61.59133
+551,"CS Dr. Domingo Cera","Provincial",-33.47283,-61.48805
+470,"CS Dr. Domingo Preiti","Municipal",-31.09594,-61.6288
+307,"CS Dr. Eduardo Gerbaix","Provincial",-32.66615,-60.79536
+566,"CS Dr. Ernesto Che Guevara","Provincial",-32.96092,-60.72161
+576,"CS Dr. Esteban Laureano Maradona","Municipal",-32.91905,-60.86188
+1256,"CS Dr. Esteban Laureano Maradona","Municipal",-32.7272,-60.73272
+136,"CS Dr. Esteban Maradona","Provincial",-31.417244718872,-60.920520771944
+631,"CS Dr. Esteban Maradona","Municipal",-32.949277777778,-60.693388888889
+894,"CS Dr. Fernando O Degano","Municipal",-32.20661,-61.70055
+1304,"CS Dr. Isaac Warchavsky","Provincial",-30.35329,-61.89633
+6,"CS Dr. Jorge Caniza","Provincial",-28.41351,-59.25939
+519,"CS Dr. Jorge Semorile","Municipal",-33.59969,-61.60734
+395,"CS Dr. José Costa","Provincial",-31.1744,-61.9177
+152,"CS Dr. Orlando Alassia","Provincial",-30.69462,-61.05038
+269,"CS Dr. Raúl Renedo","Municipal",-32.16953,-61.15769
+441,"CS Dr. René Favaloro","Municipal",-33.34934,-61.44486
+577,"CS Dr. Roque Pérez","Municipal",-32.99787,-60.76854
+817,"CS Dr. Salvador Mazza","Municipal",-32.887138888889,-60.734166666667
+615,"CS Dr. Víctor Cue","Municipal",-32.919805555556,-60.699194444444
+416,"CS Dr. Vidalle","Municipal",-33.63816,-61.85204
+621,"CS Dr. David Staffieri","Municipal",-32.958277777778,-60.690388888889
+552,"CS Dr. Julio Maiztegui","Provincial",-33.4683,-61.48535
+529,"CS Dra. Carmen Castilla Murphy","Municipal",-33.64636,-61.85996
+89,"CS Dra. Griselda Merati","Provincial",-31.301683333,-60.6715
+17,"CS El Araza","Provincial",-29.13292,-59.94775
+705,"CS El Carmen","Municipal",-28.79705,-59.69138
+651,"CS El Gaucho","Municipal",-33.00347,-60.6888
+246,"CS El Lucero","Provincial",-29.90534,-60.84347
+648,"CS El Mangrullo","Municipal",-32.998916666667,-60.615111111111
+153,"CS El Nochero","Municipal",-28.22839,-61.52503
+557,"CS El Rabón","Provincial",-28.22738,-59.26346
+558,"CS El Sombrerito","Provincial",-28.65579,-59.42753
+15,"CS El Yaguareté","Provincial",-28.35,-59.2833
+639,"CS Elena Bazet (Ex San Fco Solano)","Municipal",-33.00573,-60.67139
+625,"CS Emaus","Municipal",-32.917027777778,-60.73275
+114,"CS Emaus","Provincial",-31.668623646962,-60.726337141145
+60,"CS Emilia","Municipal",-31.056716667,-60.743916667
+391,"CS Empalme San Carlos","Provincial",-31.54764,-60.81302
+504,"CS Empalme Villa Constitución","Provincial",-33.26123,-60.37901
+471,"CS Esmeralda","Provincial",-31.61621,-61.93077
+358,"CS Espin","Provincial",-29.53885,-60.22197
+472,"CS Estación Clucellas","Municipal",-31.52413,-61.71778
+101,"CS Estanislao López","Provincial",-31.577308394353,-60.73444456484
+154,"CS Esteban Rams","Municipal",-29.77106,-61.48883
+458,"CS Eusebia Dr. Saúl Gómez","Municipal",-30.9477,-61.85576
+653,"CS Eva Duarte","Municipal",-32.953,-60.701722
+423,"CS Eva Duarte de Perón","Municipal",-31.659133333,-60.766666667
+575,"CS Eva Perón","Municipal",-32.91001,-60.81463
+401,"CS Eva Perón","Municipal",-32.45711,-60.89048
+570,"CS Eva Perón","Municipal",-33.219673772198,-60.343582394668
+368,"CS Eva Perón","Provincial",-32.03137,-61.22953
+580,"CS Evita","Municipal",-33.033861,-60.63175
+105,"CS Evita Barrio La Florida","Provincial",-31.648825050174,-60.726635663483
+363,"CS Fighiera","Provincial",-33.19343,-60.47071
+23,"CS Flor De Oro","Provincial",-28.92482,-59.6556
+102,"CS Fonavi Barrio Centenario","Provincial",-31.663442893574,-60.7262862841
+50,"CS Fonavi Barrio Estanislao López","Provincial",-32.81966,-61.38038
+103,"CS Fonavi Barrio Las Flores II","Provincial",-31.592518852346,-60.712971643893
+417,"CS Fonavi Bº Malvinas Argentinas","Municipal",-33.726944360429,-61.97811296254
+604,"CS Fonavi Sagrado Corazón","Municipal",-32.739828516393,-60.747764748723
+348,"CS Fortín Charrúa","Provincial",-29.12842,-60.9343
+316,"CS Fray Luis Beltrán","Municipal",-32.79419,-60.72931
+455,"CS Frontera","Municipal",-31.43905,-62.06273
+474,"CS Garibaldi","Municipal",-31.65017,-61.80667
+492,"CS General Gelly","Municipal",-33.60074,-60.59846
+162,"CS General Güemes","Provincial",-29.22629,-61.77634
+186,"CS General Lagos","Provincial",-33.11173,-60.56112
+400,"CS General Urquiza Barrio Basualdo","Municipal",-31.99909,-60.92321
+687,"CS Gerontocomio Municipal","Municipal",-32.887138888889,-60.733194444444
+280,"CS Géssler","Municipal",-31.87666,-61.12769
+493,"CS Godoy","Municipal",-33.36853,-60.50579
+350,"CS Golondrina","Provincial",-28.55722,-60.0226
+409,"CS Granaderos a caballo","Municipal",-33.049735097741,-61.155770008172
+142,"CS Grutly Norte","Provincial",-31.21797,-61.10345
+125,"CS Grutly Sur Prudencio Díaz","Municipal",-31.26992,-61.07175
+688,"CS Guadalupe Central Padre Trucco","Provincial",-31.602856219158,-60.675418067038
+27,"CS Guadalupe Norte","Provincial",-28.93815,-59.56232
+881,"CS Güemes","Municipal",-33.740271759332,-61.942876848658
+98,"CS Gutiérrez Este","Provincial",-31.626904632276,-60.684512679501
+143,"CS Hipatia","Provincial",-31.12547,-61.03167
+424,"CS Hipólito Irigoyen","Provincial",-31.69735,-60.760816667
+412,"CS Horacio Fredriksson","Municipal",-33.4459,-61.47964
+144,"CS Humboldt","Provincial",-31.40119,-61.08651
+174,"CS Ibarlucea","Provincial",-32.8518,-60.78718
+561,"CS Ingeniero Chanourdie","Provincial",-28.76077,-59.57626
+1249,"CS Ingeniero Mosconi","Provincial",-33.02998,-60.648045
+585,"CS Intendente Andreu","Municipal",-33.023778,-60.612972
+405,"CS Intercultural Natarentaca Com Nalequetegueta","Municipal",-31.497566667,-60.7243
+573,"CS Isabel D. Maleandi","Municipal",-33.059028285585,-60.615939474919
+1310,"CS Isla Guaycurú","Provincial",-28.85344,-59.46785
+893,"CS Itatí","Municipal",-32.9825,-60.667389
+211,"CS Itatí","Provincial",-33.033139,-60.6465
+110,"CS Iturbide","Municipal",-33.76103748709,-61.950155565088
+378,"CS Jacinto L Arauz","Provincial",-30.73422,-60.97444
+394,"CS Jaime J Culler","Provincial",-28.62251,-61.62863
+623,"CS Jean Henry Dunnant","Municipal",-32.945667,-60.699639
+362,"CS Jorge Newbery","Municipal",-31.718583333,-60.79945
+732,"CS José Dho","Provincial",-30.301346787093,-61.228564921018
+598,"CS José Hernández (Mun)","Municipal",-32.75708851864,-60.736881090052
+849,"CS José Hernández (Prov)","Provincial",-32.759351318049,-60.741170558637
+830,"CS José Raúl Ugarte","Municipal",-32.94065,-60.75996
+468,"CS Josefina","Provincial",-31.40556,-61.99059
+654,"CS Juan B. Justo","Municipal",-32.914333333333,-60.693527777778
+422,"CS Juan Domingo Perón","Provincial",-31.664866667,-60.776466667
+630,"CS Juan Pablo II","Municipal",-32.95575,-60.709639
+690,"CS Juan XXIII","Municipal",-33.744064396864,-61.985692100542
+652,"CS Juana Azurduy","Municipal",-32.916111111111,-60.711611111111
+28,"CS Julia Capozzolo Barrio Carmen Luisa","Provincial",-29.17592,-59.64467
+834,"CS Julio Maiztegui (Ex San Roque)","Municipal",-33.01687,-60.65024
+495,"CS Juncal","Municipal",-33.71532,-61.04455
+215,"CS Juntos Podemos Kolping","Provincial",-32.95667,-60.70342
+359,"CS Km 115","Provincial",-29.47787,-60.5571
+88,"CS La Boca - Ramón Rivero","Provincial",-31.66352,-60.70081
+249,"CS La Brava","Provincial",-30.44644,-60.14008
+242,"CS La Cabral","Municipal",-30.08739,-61.1779
+302,"CS La Camila","Provincial",-30.08025,-60.56284
+525,"CS La Chispa","Provincial",-33.543,-61.97231
+287,"CS La Criolla","Municipal",-30.22545,-60.36127
+618,"CS La Florida","Municipal",-32.883,-60.700555555556
+58,"CS La Guardia","Provincial",-31.638283333,-60.6263
+706,"CS La Lola","Provincial",-29.19616,-59.74108
+243,"CS La Lucila","Municipal",-30.4191,-61.00401
+299,"CS La Penca Y Caraguata","Provincial",-30.34662,-60.52179
+206,"CS La Posta","Provincial",-32.933833333333,-60.677972222222
+10,"CS La Reserva","Provincial",-28.49994,-59.51559
+53,"CS La Rivera","Provincial",-32.643,-60.83589
+232,"CS La Rubia","Municipal",-30.11047,-61.79294
+563,"CS La Sarita","Municipal",-28.97272,-59.84905
+502,"CS La Vanguardia","Municipal",-33.35827,-60.65897
+523,"CS Labordeboy","Municipal",-33.71768,-61.315
+279,"CS Larrechea","Municipal",-31.93565,-61.04598
+371,"CS Las Delicias","Provincial",-31.583087905911,-60.695087776606
+633,"CS Las Flores","Municipal",-33.018666666667,-60.660527777778
+645,"CS Las Flores Este","Municipal",-33.012,-60.652666666667
+360,"CS Las Gamas","Provincial",-29.40296,-60.38634
+564,"CS Las Garzas","Provincial",-28.84757,-59.50054
+885,"CS Las Lomas","Provincial",-31.59626667,-60.73545
+244,"CS Las Palmeras","Provincial",-30.62984,-61.62595
+392,"CS Las Tunas","Provincial",-31.57153,-60.99609
+526,"CS Lazzarino","Provincial",-34.16586,-62.42868
+447,"CS Lehmann","Municipal",-31.12639,-61.45138
+896,"CS Libertad (Ex Aborígenes Argentinos)","Provincial",-32.983,-60.707
+119,"CS Lisandro De La Torre","Provincial",-31.676733333,-60.797316667
+92,"CS Llambi Campbell","Provincial",-31.185983333,-60.748133333
+283,"CS Loma Alta","Municipal",-31.96082,-61.17627
+680,"CS Los Hornos Norte","Municipal",-31.274533333,-60.662616667
+259,"CS Los Jacintos","Provincial",-29.85798,-59.81908
+25,"CS Los Lapachos","Provincial",-28.7451,-59.66789
+12,"CS Los Laureles","Municipal",-29.36892,-59.73795
+437,"CS Los Molinos","Municipal",-33.10518,-61.33006
+1326,"CS Los Pinos","Provincial",-33.148056,-60.716944
+300,"CS Los Saladillos","Provincial",-30.72888,-60.2775
+357,"CS Los Tábanos","Provincial",-28.45809,-59.98245
+693,"CS Los Ucles","Municipal",-32.68418,-61.51343
+513,"CS Los Zapallos","Provincial",-31.49164,-60.42787
+833,"CS Luchemos por la vida","Municipal",-32.970889,-60.709861
+41,"CS Lucio V. López","Municipal",-32.71199,-61.02277
+616,"CS Ludueña Norte Y Moreno","Municipal",-32.927111111111,-60.695666666667
+591,"CS Luis Cristallini","Municipal",-32.807475119647,-60.720476372544
+632,"CS Luis Pasteur","Municipal",-32.978861111111,-60.634083333333
+675,"CS Luzuriaga","Municipal",-33.25967,-60.30595
+59,"CS Mabel Montes Bo Guadalupe Oeste","Provincial",-31.602939337627,-60.683664836752
+353,"CS Madre Teresa De Calcuta","Municipal",-29.23988,-61.77475
+902,"CS Maggiolo","Municipal",-33.72717,-62.25109
+634,"CS Marcelino Champagnat","Municipal",-32.976305555556,-60.684277777778
+288,"CS Marcelino Escalada","Municipal",-30.58143,-60.4692
+1248,"CS Margarita","Provincial",-29.68272,-60.25168
+584,"CS María Auxiliadora","Municipal",-33.03446,-60.60725
+448,"CS María Juana","Municipal",-31.67738,-61.75473
+139,"CS María Luisa","Municipal",-31.01134,-60.91028
+837,"CS Martin","Municipal",-32.946083333333,-60.651027777778
+261,"CS Materno Infantil","Municipal",-33.736091153999,-61.96897867704
+128,"CS Matilde","Municipal",-31.79325,-60.98298
+624,"CS Mauricio Casals","Municipal",-32.970556,-60.694889
+543,"CS Melincué","Municipal",-33.657167440358,-61.453830097083
+684,"CS Melvin Jones","Municipal",-32.939167,-60.670722
+506,"CS Miguel Rueda","Provincial",-33.35095,-60.459817
+540,"CS Miguel Torres","Municipal",-33.52733,-61.46597
+900,"CS Mocoví","Municipal",-29.21564,-61.76795
+272,"CS Monje","Municipal",-32.35519,-60.94691
+83,"CS Monte Vera","Provincial",-31.518583333,-60.67925
+157,"CS Montefiore","Provincial",-29.666778,-61.866564
+555,"CS Moussy","Provincial",-29.01717,-59.68741
+289,"CS Nare","Provincial",-30.94932,-60.46723
+2,"CS Nicanor Molina","Provincial",-29.13,-59.83275
+579,"CS Niño Jesús","Municipal",-33.016806,-60.626972
+418,"CS Nro. 1","Municipal",-33.69475,-61.61837
+460,"CS Nro. 1","Provincial",-31.23198,-61.47058
+487,"CS Nro. 1 Mariano Moreno","Provincial",-31.23638,-61.48153
+182,"CS Nro. 10 Villa Manuelita","Provincial",-32.986611111111,-60.627805555556
+170,"CS Nro. 11 Pueblo Nuevo","Provincial",-33.009056,-60.615972
+213,"CS Nro. 11 Villa Corrientes","Provincial",-32.971611,-60.647833
+201,"CS Nro. 12 Dr. García Piatti","Provincial",-32.979472222222,-60.660888888889
+202,"CS Nro. 13  Fonavi","Provincial",-32.971667,-60.701
+191,"CS Nro. 14  Avellaneda Oeste","Provincial",-32.964778,-60.686028
+203,"CS Nro. 15 Juan Domingo Perón","Provincial",-33.020416666667,-60.657527777778
+172,"CS Nro. 16 Pablo Vi","Provincial",-32.916194444444,-60.72
+173,"CS Nro. 17 Caritas Guadalupe","Provincial",-32.921388888889,-60.699222222222
+187,"CS Nro. 18 San Fernando","Provincial",-32.83893,-60.71579
+194,"CS Nro. 19 La Cerámica","Provincial",-32.886972222222,-60.706861111111
+419,"CS Nro. 2 - Elortondo","Municipal",-33.70552,-61.62317
+698,"CS Nro. 2 Ena Richiger- Bº 9 De Julio","Municipal",-30.94666,-61.55073
+196,"CS Nro. 2 Fonavi Súper Cemento","Provincial",-32.938555555556,-60.727055555556
+461,"CS Nro. 2 Materno Infantil","Provincial",-31.27357,-61.47046
+195,"CS Nro. 20 La Esperanza","Provincial",-32.897472222222,-60.7115
+171,"CS Nro. 21 Gabin 9","Provincial",-32.96991,-60.7415
+204,"CS Nro. 22 González Loza","Provincial",-32.993416666667,-60.668805555556
+212,"CS Nro. 23 San Miguel","Provincial",-32.86306,-60.71083
+207,"CS Nro. 25 Fonavi","Provincial",-32.967,-60.665861
+208,"CS Nro. 26 De La Comunidad Organizada","Provincial",-32.93275,-60.720666666667
+209,"CS Nro. 27 Ramón Carrillo","Provincial",-32.930638888889,-60.699111111111
+384,"CS Nro. 28 Sargento Cabral","Provincial",-33.03221,-60.68752
+217,"CS Nro. 29 Araoz De La Madrid","Provincial",-32.991638888889,-60.626388888889
+197,"CS Nro. 3 -  7 De Setiembre","Provincial",-32.912527777778,-60.73425
+550,"CS Nro. 3 Barrio Santa Rosa","Municipal",-33.71224497231,-61.98379074199
+457,"CS Nro. 3 Santa Rosa De Lima","Provincial",-31.250425214602,-61.468969298578
+219,"CS Nro. 30 Santa Rita","Provincial",-32.86746,-60.70006
+462,"CS Nro. 4 Virgen De Fátima","Provincial",-31.2612,-61.48201
+216,"CS Nro. 47 Barrio Toba","Provincial",-32.919666666667,-60.694472222222
+449,"CS Nro. 5 Martin M Güemes","Provincial",-31.235121054498,-61.509192471496
+199,"CS Nro. 5 Pedro Fiorina","Provincial",-32.968472222222,-60.672444444444
+188,"CS Nro. 54 Remanso Valerio","Provincial",-32.86745,-60.69052
+477,"CS Nro. 6 Barrio Amancay","Provincial",-31.261084833056,-61.508816847311
+79,"CS Nro. 6 Barrio Los Hornos","Provincial",-31.612267920101,-60.705043580766
+192,"CS Nro. 6 Eva Perón- Rosario","Provincial",-32.974583,-60.626333
+193,"CS Nro. 7 - 12 De Octubre","Provincial",-32.873638888889,-60.693805555556
+476,"CS Nro. 7 - 17 De Octubre","Provincial",-31.268234395285,-61.506998287961
+485,"CS Nro. 8 Barrio Italia","Provincial",-31.2439395808,-61.477100351077
+78,"CS Nro. 8 Barrio San Martin","Provincial",-31.59693333,-60.71681667
+190,"CS Nro. 8 Independencia","Provincial",-32.898666666667,-60.713694444444
+486,"CS Nro. 9 Barrio Jardín","Provincial",-31.25503,-61.51495
+85,"CS Nro. 9 Barrio Nueva Pompeya","Provincial",-31.587849351543,-60.711695126524
+200,"CS Nro. 9 San Francisquito","Provincial",-32.962861111111,-60.676611111111
+606,"CS Nuestra Señora De Fátima- Vecinal Bella Vista","Municipal",-32.7008,-60.73345
+408,"CS Nueva Roma 1","Municipal",-33.047180215053,-61.178597714094
+668,"CS Nueva Roma 2","Provincial",-33.054086559957,-61.190596047104
+1247,"CS Nuevo Horizonte","Municipal",-31.56101667,-60.73241667
+145,"CS Nuevo Torino","Provincial",-31.3465,-61.23698
+666,"CS Ñanducita","Provincial",-30.36992,-61.13306
+361,"CS Ogilvie","Provincial",-29.35946,-60.18854
+42,"CS Oliveros","Municipal",-32.57543,-60.84886
+722,"CS Oral Nro 4-Escuela Nro 615","Provincial",-32.974972222222,-60.635055555556
+69,"CS Oratorio San Lorenzo Padre Gasparotto","Provincial",-31.655954276699,-60.728962910532
+104,"CS Padre Cobo","Provincial",-31.607510040313,-60.711811117468
+224,"CS Palacios","Provincial",-30.70756,-61.62141
+345,"CS Paraje 17","Provincial",-29.19978,-60.28268
+343,"CS Paraje 29","Provincial",-29.10804,-60.23803
+380,"CS Paraje La Boca","Provincial",-32.33244,-60.87677
+20,"CS Paraje Las Claritas","Provincial",-28.57229,-59.52744
+31,"CS Paraje San Juan","Provincial",-28.23932,-59.53588
+703,"CS Parque Industrial","Provincial",-29.147168697543,-59.661797375051
+642,"CS Parque Sur","Municipal",-33,-60.6685
+505,"CS Pavón","Provincial",-33.24234,-60.40559
+497,"CS Pavón Arriba","Municipal",-33.3098,-60.82317
+90,"CS Pbro Germán Yossen","Provincial",-31.284183333,-60.657433333
+290,"CS Pedro Gómez Cello","Municipal",-30.03587,-60.3125
+402,"CS Pedro Manasseri","Municipal",-32.04778,-61.60755
+21,"CS Pedro Vicentin","Provincial",-29.10993,-59.64721
+498,"CS Peyrano","Municipal",-33.538354,-60.799745
+466,"CS Plaza Clucellas","Municipal",-31.45424,-61.70451
+835,"CS Pocho Lepratti","Municipal",-33.015027777778,-60.656361111111
+68,"CS Policlínico Centenario","Provincial",-31.663280354872,-60.719408011553
+75,"CS Policlínico Vecinal","Provincial",-31.619106723466,-60.693998957395
+876,"CS Posta Sanitaria  El Triangulo","Municipal",-33.033972,-60.635472
+887,"CS Posta Sanitaria Don Carlos","Provincial",-29.18843397672,-59.683791976976
+161,"CS Pozo Borrado","Municipal",-28.93632,-61.7032
+346,"CS Pozo De Los Indios","Municipal",-28.95636,-60.24945
+897,"CS Presidente Raúl R Alfonsín","Provincial",-31.676733333,-60.797316667
+475,"CS Presidente Roca","Municipal",-31.21288,-61.61265
+612,"CS Primero De Mayo","Municipal",-32.887916666667,-60.711916666667
+146,"CS Progreso","Municipal",-31.13925,-60.98815
+147,"CS Providencia","Provincial",-30.98383,-61.02109
+189,"CS Pueblo Esther","Provincial",-33.07269,-60.57604
+180,"CS Pueblo Muñoz","Provincial",-33.1716,-60.89666
+364,"CS Puerto Aragón","Municipal",-32.24298,-60.92297
+94,"CS Puesto Sanitario Aeropuerto","Provincial",-31.7093,-60.805033333
+84,"CS Quilmes","Provincial",-31.62756176352,-60.719039074824
+291,"CS Ramayón","Municipal",-30.67381,-60.49995
+586,"CS Ramón Carrillo","Municipal",-33.15088,-60.51473
+336,"CS Ramón Carrillo","Provincial",-31.89007,-61.86796
+459,"CS Ramona","Provincial",-31.09196,-61.90112
+483,"CS Raquel","Provincial",-30.83625,-61.48903
+77,"CS Recreo","Municipal",-31.4917,-60.736333333
+406,"CS Recreo Sur","Municipal",-31.533916667,-60.712683333
+596,"CS Remedios De Escalada","Municipal",-32.74576,-60.73941
+65,"CS Rincón Norte N 13","Provincial",-31.564,-60.5333
+1269,"CS Rincón Potreros","Provincial",-31.527516667,-60.481283333
+610,"CS Rómulo Zavalla","Municipal",-32.802438935521,-60.724715548059
+613,"CS Roque Coulin","Municipal",-32.929916666667,-60.691805555556
+636,"CS Rubén Naranjo (Ex Las Heras)","Municipal",-32.992555555556,-60.629555555556
+137,"CS Sa Pereira","Municipal",-31.57127,-61.37682
+478,"CS Saguier","Municipal",-31.32515,-61.66695
+514,"CS Saladero Cabal","Provincial",-30.8815,-60.04127
+694,"CS Salbor","Municipal",-32.67527,-61.51497
+454,"CS Samco Zenón Pereyra","Municipal",-31.56016,-61.89508
+87,"CS San Agustín - La Capital","Provincial",-31.564728584618,-60.74367914694
+132,"CS San Agustín - Las Colonias","Provincial",-31.68266,-60.9417
+479,"CS San Antonio","Provincial",-31.21179,-61.72516
+9,"CS San Antonio De Obligado","Provincial",-28.38468,-59.26349
+388,"CS San Bernardo","Provincial",-28.667867,-61.52962
+140,"CS San Carlos Norte","Municipal",-31.673029879723,-61.074928481232
+141,"CS San Carlos Sur","Municipal",-31.76174,-61.1023
+385,"CS San Cayetano","Municipal",-31.703483333,-60.786333333
+531,"CS San Eduardo","Provincial",-33.87308,-62.09149
+582,"CS San Enrique","Municipal",-33.02874,-60.64243
+284,"CS San Eugenio","Provincial",-32.07564,-61.11604
+275,"CS San Fabián","Municipal",-32.13624,-60.98261
+541,"CS San Francisco De Santa Fe","Provincial",-33.58863,-62.12333
+277,"CS San Genaro Norte","Municipal",-32.36375,-61.33754
+129,"CS San Jerónimo Del Sauce","Municipal",-31.60821,-61.14303
+130,"CS San Jerónimo Norte","Municipal",-31.55488,-61.08231
+312,"CS San Jerónimo Sur","Municipal",-32.87977,-61.02777
+66,"CS San José Del Rincón","Municipal",-31.605483333,-60.572033333
+301,"CS San José Obrero","Provincial",-30.7832487094,-60.589144419377
+548,"CS San José Obrero","Municipal",-33.74008439825,-61.984355638829
+554,"CS San José Urbano","Provincial",-33.65078,-61.44449
+317,"CS San Juan Bautista","Provincial",-32.77408,-60.78722
+24,"CS San Manuel","Provincial",-28.97054,-59.84867
+138,"CS San Mariano","Municipal",-31.66865,-61.34869
+836,"CS San Martin - Rosario","Municipal",-32.945777777778,-60.717583333333
+100,"CS San Martin De Porres","Provincial",-31.592765574372,-60.699185693979
+1251,"CS San Martin De Porres","Provincial",-29.470732088578,-60.222223296513
+293,"CS San Martin Norte","Municipal",-30.3463,-60.30312
+578,"CS San Martin- Vgg","Municipal",-33.03664,-60.65282
+399,"CS San Pantaleón","Municipal",-31.968263999675,-60.922667787207
+257,"CS San Roque","Provincial",-29.5493,-59.92638
+608,"CS San Sebastián","Municipal",-32.71147,-60.76586
+415,"CS San Vicente","Municipal",-33.734036710053,-61.986408280256
+638,"CS San Vicente De Paul","Municipal",-33.028,-60.687277777778
+442,"CS Sanford","Municipal",-33.14341,-61.2791
+34,"CS Santa Ana","Provincial",-28.96876,-59.64261
+347,"CS Santa Lucia","Provincial",-29.24554,-60.30338
+655,"CS Santa Lucia - Rosario","Municipal",-32.955333,-60.726917
+158,"CS Santa Margarita","Municipal",-28.31399,-61.54828
+629,"CS Santa María Josefa Rosello","Municipal",-32.965916666667,-60.716555555556
+254,"CS Santa Rosa (Barrio Pizarro)","Provincial",-30.5725,-59.9378
+884,"CS Santa Rosa De Lima","Provincial",-29.445959267258,-60.210441152019
+499,"CS Santa Teresa","Municipal",-33.436648,-60.790384
+650,"CS Santa Teresita","Municipal",-32.983306,-60.676333
+383,"CS Santa Teresita","Provincial",-31.10517,-60.09534
+367,"CS Santurce","Provincial",-30.18665,-61.18157
+501,"CS Sargento Cabral","Municipal",-33.43067,-60.62943
+97,"CS Sarmiento Juventud Unidad Del Norte","Provincial",-31.589801684018,-60.729955247743
+46,"CS Serodino","Municipal",-32.60991,-60.94517
+117,"CS Setúbal","Provincial",-31.59823333,-60.66461667
+13,"CS Siete Provincias","Provincial",-28.83555,-59.6592
+588,"CS Soldini","Municipal",-33.02344,-60.75538
+220,"CS Soledad","Municipal",-30.6193,-60.9158
+641,"CS Sur- Rosario","Municipal",-33.00954,-60.63578
+366,"CS Susana","Provincial",-31.35597,-61.51449
+403,"CS Telmo Emilio Albrecht (Ex Nro 6)","Municipal",-31.57891,-60.93837
+503,"CS Theobald","Provincial",-33.31091,-60.31164
+656,"CS Tío Rolo","Municipal",-33.01905,-60.68912
+414,"CS Tiro Federal","Municipal",-33.762979871225,-61.966919394602
+338,"CS Toba","Provincial",-29.26529,-60.17095
+590,"CS Uranga","Municipal",-33.26419,-60.70849
+640,"CS Vecinal 20 De Junio (Ex Tiro Suizo)","Municipal",-32.997528,-60.657861
+829,"CS Vecinal Amor Al Estudio","Municipal",-32.926833333333,-60.686583333333
+831,"CS Vecinal Ángel Invaldi","Municipal",-32.921194444444,-60.715805555556
+627,"CS Vecinal Antonio Paravano","Municipal",-32.917638888889,-60.71475
+150,"CS Vecinal Barrio Norte","Provincial",-31.437254815143,-60.927851337457
+635,"CS Vecinal Barrio Plata","Municipal",-32.998028,-60.680889
+637,"CS Vecinal Domingo Matheu","Municipal",-32.981638888889,-60.651416666667
+626,"CS Vecinal Julio A Roca","Municipal",-32.974944444444,-60.694944444444
+643,"CS Vecinal San Martin A","Municipal",-33.007138888889,-60.654111111111
+51,"CS Víctor Rossi","Provincial",-32.824139575589,-61.407683370833
+295,"CS Videla","Municipal",-30.94598,-60.65171
+481,"CS Vila","Provincial",-31.18891,-61.83245
+569,"CS Villa Casey","Municipal",-33.710659810756,-61.962146656372
+599,"CS Villa Felisa","Municipal",-32.76396,-60.73886
+607,"CS Villa Flores","Municipal",-32.90982,-60.89565
+681,"CS Villa Obrero","Municipal",-31.30254,-60.6538
+223,"CS Villa Saralegui","Provincial",-30.53938,-60.74824
+628,"CS Villa Urquiza","Municipal",-32.957722222222,-60.701361111111
+875,"CS Virgen De Itatí- San Lorenzo","Municipal",-32.74685,-60.74658
+482,"CS Virginia","Municipal",-30.7396,-61.33946
+725,"Destacamento II Gendarmería Nacional","FFAA",-32.97075,-60.642805555556
+1330,"División De Asuntos Juveniles","Provincial",-31.66011,-60.71062
+802,"Escuela Nro 1078 J Kennedy","Provincial",-32.993389,-60.62875
+803,"Escuela Nro 109 Chassaing Juan","Provincial",-32.94525,-60.692055555556
+810,"Escuela Nro 1275 Fray Luis Beltrán-Cs Nro 3 - 7 De Septiembre","Provincial",-32.912527777778,-60.734138888889
+801,"Escuela Nro 2050 Diferencial.","Provincial",-32.947361111111,-60.709916666667
+823,"Escuela Nro 223 Tte. Gral. Richieri","Provincial",-32.82226921682,-60.717313546941
+787,"Escuela Nro 616 República De Venezuela","Provincial",-32.944917,-60.701
+804,"Escuela Nro 91 EE.UU. Del Brasil","Provincial",-32.943194444444,-60.712611111111
+168,"Hospital Anselmo Gamen","Provincial",-33.023417,-60.631194
+304,"Hospital Carlos Goytia","Municipal",-32.86387,-61.14317
+318,"Hospital Carlos Pellegrini Dr. Julio Cortes Belascuen","Municipal",-32.04742,-61.78458
+658,"Hospital De Emergencias Dr. Clemente Álvarez","Municipal",-32.952027777778,-60.669694444444
+121,"Hospital De Niños Dr. Orlando Alassia","Provincial",-31.64399787905,-60.727398178814
+657,"Hospital De Niños Vilela","Municipal",-32.968,-60.654527777778
+181,"Hospital De Niños Zona Norte","Provincial",-32.912138888889,-60.681805555556
+74,"Hospital De Rehabilitación Dr. Vera Candioti","Provincial",-31.653473548016,-60.724346935912
+72,"Hospital Dr. J B Iturraspe","Provincial",-31.632912401342,-60.715659342317
+71,"Hospital Dr. José María Cullen","Provincial",-31.648532823241,-60.719606015019
+663,"Hospital Dr. Juan Bautista Alberdi","Municipal",-32.894472,-60.690639
+5,"Hospital Dra. Olga Stucky","Provincial",-29.15253,-59.65736
+167,"Hospital Eva Perón","Provincial",-32.85644,-60.70468
+271,"Hospital Federico Meroi","Municipal",-32.46265,-60.88821
+73,"Hospital General Polivalente Dr. Mira y López","Provincial",-31.582613868889,-60.72651102558
+175,"Hospital Geriátrico","Provincial",-32.979166666667,-60.632388888889
+659,"Hospital Intendente Gabriel Carrasco","Municipal",-32.9465,-60.681138888889
+533,"Hospital Miguel Rueda","Provincial",-33.88729,-61.68704
+149,"Hospital Pedro Suchon","Municipal",-31.74628,-61.09055
+63,"Hospital Protomédico Manuel Rodríguez","Provincial",-31.545333333,-60.724583333
+184,"Hospital Provincial","Provincial",-32.956277777778,-60.630361111111
+183,"Hospital Provincial Centenario","Provincial",-32.938055555556,-60.66475
+354,"Hospital Rural Dr. Sergio Ros Del Wueski","Municipal",-28.10195,-59.97696
+434,"Hospital San Carlos","Provincial",-33.036407533965,-61.157442069237
+64,"Hospital Sayago","Provincial",-31.58521485233,-60.726032730331
+899,"Hospital Eva Perón","Provincial",-32.85648,-60.70446
+660,"Hospital Roque Sáenz Peña","Municipal",-32.999277777778,-60.647111111111
+38,"Hospital San José","Provincial",-32.829621432244,-61.394877838419
+661,"Instituto De Lucha Antipoliomielitica Y Rehabilitación Del Lisiado (Ilar)","Municipal",-32.965444444444,-60.64875
+878,"Laboratorio Central De Detección De Enfermedades C","Provincial",-31.638084896112,-60.691761974791
+1250,"Laboratorio Central De Procesamiento De Papanicolaou Dr. Daniel Rocco","Provincial",-31.634324155344,-60.716824473747
+760,"Laboratorio Industrial Farmacéutico","Provincial",-31.58521485233,-60.726032730331
+662,"Maternidad Martín","Municipal",-32.946083333333,-60.651027777778
+1338,"Pabellón Juvenil Cárcel De Las Flores","Provincial",-31.57833,-60.7303
+682,"Rosario, Centro De Salud Hogar Del Huérfano.","Municipal",-32.964861,-60.638694
+431,"SAMCo  Geriátrico Arequito","Municipal",-33.15043,-61.47712
+530,"SAMCo  Hospital Rufino","Municipal",-34.27416,-62.71605
+163,"SAMCo Acebal María Saa Pereyra","Municipal",-33.24017,-60.82988
+488,"SAMCo Alcorta Dr. J. J . Maiztegui","Municipal",-33.54073,-61.11729
+247,"SAMCo Alejandra","Municipal",-29.91079,-59.82654
+164,"SAMCo Álvarez","Municipal",-33.13226,-60.80557
+227,"SAMCo Ambrosetti","Municipal",-30.013146791732,-61.577441251569
+425,"SAMCo Armstrong","Municipal",-32.78819,-61.60404
+225,"SAMCo Arrufo","Municipal",-30.2309,-61.7293
+443,"SAMCo Arteaga Dr. Adolfo Mario Vittori","Municipal",-33.09204,-61.79418
+233,"SAMCo Barón Hirsch","Municipal",-30.71348,-61.47782
+264,"SAMCo Barrancas","Municipal",-32.22897,-60.98232
+432,"SAMCo Berabevu","Municipal",-33.33655,-61.86155
+433,"SAMCo Bigand Alfredo Berraz","Municipal",-33.37475,-61.18022
+489,"SAMCo Bombal","Municipal",-33.42923,-61.32023
+426,"SAMCo Bouquet","Municipal",-32.425139526649,-61.886840440109
+35,"SAMCo Bustinza","Municipal",-32.73813,-61.28883
+322,"SAMCo Cañada Rosquín","Municipal",-32.049761197637,-61.596173367513
+560,"SAMCo Carlos Harteneck","Municipal",-28.24052,-59.44903
+319,"SAMCo Casas","Municipal",-32.1248,-61.54204
+320,"SAMCo Castelar","Municipal",-31.66674,-62.0891
+507,"SAMCo Cayasta","Provincial",-31.20171,-60.16384
+226,"SAMCo Ceres","Municipal",-29.87764,-61.94551
+436,"SAMCo Chañar Ladeado","Municipal",-33.32198,-62.04102
+321,"SAMCo Colonia Belgrano","Municipal",-31.90893,-61.40064
+267,"SAMCo Coronda","Municipal",-31.979743187232,-60.915695638044
+305,"SAMCo Coronel Arnold","Provincial",-33.1052,-60.96683
+169,"SAMCo Coronel Bogado","Municipal",-33.31452,-60.60415
+335,"SAMCo Crispi","Municipal",-31.74045,-62.03666
+241,"SAMCo Curupaity","Municipal",-30.39563,-61.65083
+268,"SAMCo Díaz","Municipal",-32.3748,-61.09403
+536,"SAMCo Dr. A Gutiérrez","Municipal",-33.751809736163,-61.950092009645
+453,"SAMCo Dr. Amílcar Gorosito","Municipal",-30.94213,-61.56131
+7,"SAMCo Dr. Bartolomé B Parma","Municipal",-28.49761,-59.61276
+508,"SAMCo Dr. Eladio Antonucci","Municipal",-30.80408,-60.00522
+450,"SAMCo Dr. Jaime Ferre","Municipal",-31.244208931398,-61.500758616716
+86,"SAMCo Dr. Nanzer","Municipal",-31.67865,-60.777483333
+303,"SAMCo Dr. R Barrionuevo","Municipal",-32.8196,-60.71796
+323,"SAMCo El Trébol","Municipal",-32.19028,-61.70576
+521,"SAMCo Elortondo","Municipal",-33.69724,-61.60609
+123,"SAMCo Esperanza Dr. Daniel A Criado","Municipal",-31.442134924537,-60.93605484547
+124,"SAMCo Felicia","Municipal",-31.2443,-61.21044
+559,"SAMCo Florencia","Municipal",-28.0457,-59.21936
+339,"SAMCo Fortín Olmos","Provincial",-29.05054,-60.41163
+306,"SAMCo Fuentes","Municipal",-33.17412,-61.07383
+270,"SAMCo Gálvez Hospital Alfredo Baetti","Municipal",-32.018485640655,-61.227328425871
+349,"SAMCo Garabato","Provincial",-28.95316,-60.1385
+166,"SAMCo General San Martin - Arroyo Seco","Municipal",-33.15998,-60.49982
+522,"SAMCo General San Martin - Firmat","Municipal",-33.45809,-61.49488
+127,"SAMCo Geriátrico J Vionet","Municipal",-31.44152,-61.26692
+286,"SAMCo Gobernador Crespo","Municipal",-30.36227,-60.40029
+313,"SAMCo Granaderos A Caballo","Provincial",-32.748817366249,-60.729906147113
+509,"SAMCo Helvecia","Municipal",-31.099721890785,-60.091322717389
+230,"SAMCo Hersilia","Municipal",-30.00036,-61.83972
+231,"SAMCo Huanqueros","Municipal",-30.01395,-61.21703
+524,"SAMCo Hughes","Municipal",-33.80508,-61.33487
+446,"SAMCo Humberto Primo","Municipal",-30.86642,-61.35855
+352,"SAMCo Intiyaco","Municipal",-28.67564,-60.07152
+440,"SAMCo Islas Malvinas","Municipal",-33.40045,-61.841
+494,"SAMCo Juan B Molina","Municipal",-33.49626,-60.50648
+341,"SAMCo La Gallareta","Municipal",-29.58037,-60.37916
+126,"SAMCo La Pelada","Municipal",-30.86416,-60.96607
+324,"SAMCo Landeta","Municipal",-32.01373,-62.0631
+562,"SAMCo Lanteri","Municipal",-28.84212,-59.63613
+325,"SAMCo Las Bandurrias","Municipal",-32.19743,-61.49228
+427,"SAMCo Las Parejas Dr. Juan M Valdano","Municipal",-32.68252,-61.52255
+326,"SAMCo Las Petacas","Municipal",-31.82239,-62.10648
+428,"SAMCo Las Rosas","Municipal",-32.480369150487,-61.58148865414
+565,"SAMCo Las Toscas","Municipal",-28.34876,-59.25849
+156,"SAMCo Logroño","Municipal",-29.50147,-61.69688
+266,"SAMCo López","Municipal",-31.906824720676,-61.278415305123
+328,"SAMCo Los Cardos","Municipal",-32.32357,-61.63139
+438,"SAMCo Los Quirquinchos","Municipal",-33.37919,-61.71469
+308,"SAMCo Luis Palacios","Municipal",-32.7849,-60.9055
+527,"SAMCo Maggiolo","Municipal",-33.72035,-62.24639
+1,"SAMCo Malabrigo","Municipal",-29.34947,-59.96898
+342,"SAMCo Margarita","Municipal",-29.69023,-60.25353
+435,"SAMCo María Eva Duarte De Perón","Municipal",-33.2478,-61.36109
+329,"SAMCo María Susana","Municipal",-32.26032,-61.90367
+528,"SAMCo María Teresa","Municipal",-34.00998,-61.91101
+496,"SAMCo Máximo Paz","Municipal",-33.48107,-60.95067
+234,"SAMCo Monigotes","Municipal",-30.48792,-61.63367
+429,"SAMCo Montes De Oca","Municipal",-32.56628,-61.76924
+81,"SAMCo Nelson","Provincial",-31.264466667,-60.759733333
+61,"SAMCo Norberto Trossero","Municipal",-31.3106,-60.662766667
+330,"SAMCo Piamonte","Municipal",-32.14381,-61.97849
+273,"SAMCo Pueblo Irigoyen","Municipal",-32.15773,-61.10885
+274,"SAMCo Puerto Gaboto","Municipal",-32.43404,-60.81731
+309,"SAMCo Puerto San Martin","Municipal",-32.7185,-60.73009
+310,"SAMCo Pujato","Municipal",-33.01574,-61.04367
+337,"SAMCo Ricardo Aldao","Municipal",-29.88621,-60.28094
+311,"SAMCo Roldan","Municipal",-32.90098,-60.91052
+250,"SAMCo Romang","Municipal",-29.5056,-59.75066
+40,"SAMCo Salto Grande","Provincial",-32.67001,-61.08626
+236,"SAMCo San Cristóbal","Municipal",-30.307463715526,-61.228706540489
+276,"SAMCo San Genaro Jarupkin","Municipal",-32.37332,-61.3609
+532,"SAMCo San Gregorio","Municipal",-34.3258,-62.03254
+237,"SAMCo San Guillermo","Municipal",-30.35857,-61.91624
+251,"SAMCo San Javier","Provincial",-30.583612263501,-59.934135574804
+331,"SAMCo San Jorge","Municipal",-31.89265,-61.85498
+439,"SAMCo San José De La Esquina","Municipal",-33.11663,-61.70266
+292,"SAMCo San Justo","Municipal",-30.791483413249,-60.598742581084
+332,"SAMCo San Martin De Las Escobas","Municipal",-31.85415,-61.56798
+451,"SAMCo San Vicente","Municipal",-31.69918,-61.56103
+534,"SAMCo Sancti Spiritu","Municipal",-34.00822,-62.24693
+131,"SAMCo Santa Clara De Buena Vista","Municipal",-31.76311,-61.31671
+452,"SAMCo Santa Clara De Saguier","Municipal",-31.33503,-61.82582
+510,"SAMCo Santa Rosa De Calchines","Municipal",-31.41877,-60.33431
+133,"SAMCo Santo Domingo","Municipal",-31.12327,-60.88706
+134,"SAMCo Sarmiento","Municipal",-31.05734,-61.16471
+333,"SAMCo Sastre","Municipal",-31.771409581607,-61.834035187837
+222,"SAMCo Suardi","Provincial",-30.5368,-61.96143
+355,"SAMCo Tartagal","Provincial",-28.6702,-59.84716
+535,"SAMCo Teófilo Puentes","Municipal",-34.19251,-61.52701
+430,"SAMCo Tortugas","Municipal",-32.74636,-61.81804
+159,"SAMCo Dr. Alfredo Luis Rosetani","Municipal",-29.235049416123,-61.771187972664
+45,"SAMCo Totoras","Municipal",-32.58253697359,-61.166303280208
+334,"SAMCo Traill","Municipal",-31.91969,-61.70172
+340,"SAMCo Vera","Provincial",-29.454614075909,-60.219515728937
+294,"SAMCo Vera Y Pintado","Municipal",-30.14291,-60.33807
+176,"SAMCo Villa Amelia","Municipal",-33.17569,-60.66462
+537,"SAMCo Villa Cañas","Municipal",-34.00208,-61.61204
+500,"SAMCo Dr. Juan E. Milich","Municipal",-33.233645488537,-60.33111484904
+47,"SAMCo Villa Eloísa","Municipal",-32.96144,-61.55062
+160,"SAMCo Villa Minetti","Municipal",-28.62124,-61.62648
+314,"SAMCo Villa Mugueta","Municipal",-33.31216,-61.05317
+8,"SAMCo Villa Ocampo","Municipal",-28.480386232873,-59.350617609865
+221,"SAMCo Villa Trinidad","Municipal",-30.21519,-61.8774
+538,"SAMCo Wheelwright","Municipal",-33.79437,-61.21318
+177,"SAMCo Zavalla","Municipal",-33.02062,-60.87552
+1305,"Subsecretaria De Emergencias Y Traslados","Provincial",-31.63436,-60.71691
+1255,"UNL Saludable","Universitario",-31.63973333,-60.67765
